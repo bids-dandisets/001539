@@ -57,9 +57,12 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-07-23T14:51:45.905670+00:00'
-description: 'Hippocampal-prefrontal-olfactory bulb recordings in rats during an Odor-Place
+description: Hippocampal-prefrontal-olfactory bulb recordings in rats during an Odor-Place
   Spatial Association Task. Data includes spikes from single units, local field potential
-  recordings, position (x, y, velocity), and trial information.  '
+  recordings, position (x, y, velocity), and trial information. Trial information
+  includes nose-poke on/off times, whether the trial was rewarded or not, and time
+  at the reward well. Each file contains sessions from a single day. Behavioral sessions
+  may include data from standard odor-place, novel odor, or no odor sessions.
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
