@@ -49,6 +49,8 @@ assetsSummary:
 citation: Shin, Justin (2025) Odor-Place Spatial Association Task (Version draft)
   [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001539/draft
 contributor:
+- name: Symanski, Claire
+  schemaKey: Person
 - affiliation: []
   email: jdshin@brandeis.edu
   includeInCitation: true
@@ -56,7 +58,14 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: R01MH120228
+  name: National Institute of Mental Health
+  schemaKey: Organization
+- awardNumber: R01MH112661
+  name: National Institute of Mental Health
+  schemaKey: Organization
 dateCreated: '2025-07-23T14:51:45.905670+00:00'
+datePublished: '2025-08-04T15:38:54.425185+00:00'
 description: Hippocampal-prefrontal-olfactory bulb recordings in rats during an Odor-Place
   Spatial Association Task. Data includes spikes from single units, local field potential
   recordings, position (x, y, velocity), and trial information. Trial information
@@ -82,6 +91,18 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001539/versions/draft/assets/
 name: Odor-Place Spatial Association Task
+publishedBy:
+  endDate: '2025-08-04T15:38:54.425185+00:00'
+  id: urn:uuid:a96e9c36-e14b-4ef6-9bc7-49758a0198c6
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-08-04T15:38:54.425185+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:ef7f849f-82b7-466f-9d5b-51cfcbaf290f
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Rhythmic coordination and ensemble dynamics in the hippocampal-prefrontal
     network during odor-place associative memory and decision making
