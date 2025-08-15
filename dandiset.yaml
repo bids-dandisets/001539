@@ -46,8 +46,8 @@ assetsSummary:
   - LFP
   - Position
   - ProcessingModule
-citation: Shin, Justin (2025) Odor-Place Spatial Association Task (Version draft)
-  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001539/draft
+citation: Shin, Justin (2025) Odor-Place Spatial Association Task (Version 0.250815.1203)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001539/0.250815.1203
 contributor:
 - name: Symanski, Claire
   schemaKey: Person
@@ -72,12 +72,13 @@ description: Hippocampal-prefrontal-olfactory bulb recordings in rats during an 
   includes nose-poke on/off times, whether the trial was rewarded or not, and time
   at the reward well. Each file contains sessions from a single day. Behavioral sessions
   may include data from standard odor-place, novel odor, or no odor sessions.
+doi: 10.48324/dandi.001539/0.250815.1203
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: 'IACUC Protocol #21001'
   schemaKey: EthicsApproval
-id: DANDI:001539/draft
+id: DANDI:001539/0.250815.1203
 identifier: DANDI:001539
 keywords:
 - Associative memory
@@ -89,7 +90,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001539/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001539/0.250815.1203/assets.yaml
 name: Odor-Place Spatial Association Task
 publishedBy:
   endDate: '2025-08-15T12:03:36.707525+00:00'
@@ -114,6 +115,6 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001539/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001539/0.250815.1203
+version: 0.250815.1203
 wasGeneratedBy: []
